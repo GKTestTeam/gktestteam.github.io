@@ -34,9 +34,9 @@ h1 {
 .containerCalculator{
 	margin: auto;
 	min-width: 600px;
-	min-height: 500px;
+	min-height: 600px;
 	max-width: 600px;
-	max-height: 500px;
+	max-height: 600px;
 	background-color: white;
 	border: 2px solid black;
 	border-collapse: collapse;
@@ -117,10 +117,10 @@ ul.list1 {
 .calculator-grid {
 	background-color:  black;
 	margin: auto;
-	min-width: 280px;
-	min-height: 420px;
-	max-width: 280px;
-	max-height: 420px;
+	min-width: 360px;
+	min-height: 540px;
+	max-width: 360px;
+	max-height: 540px;
 	position: absolute;
 	top: 5%;
     right: 5%;
@@ -128,8 +128,8 @@ ul.list1 {
   display: grid;
   justify-content: center;
   align-content: center;
-  grid-template-columns: repeat(4, 70px);
-  grid-template-rows: minmax(84px, auto) repeat(5, 70px);
+  grid-template-columns: repeat(4, 90px);
+  grid-template-rows: minmax(108px, auto) repeat(5, 90px);
 }
 
 .calculator-grid > button {
@@ -146,8 +146,8 @@ ul.list1 {
 
 .calculator-grid2 {
   display: grid;
-  grid-template-columns: repeat(1, 70px);
-  grid-template-rows: minmax(70px, auto) repeat(1, 70px);
+  grid-template-columns: repeat(1, 90px);
+  grid-template-rows: minmax(90px, auto) repeat(1, 90px);
 }
 
 .calculator-grid2 > button {
@@ -164,8 +164,8 @@ ul.list1 {
 
 .calculator-grid3 {
   display: grid;
-  grid-template-columns: repeat(1, 70px);
-  grid-template-rows: minmax(70px, auto) repeat(1, 70px);
+  grid-template-columns: repeat(1, 90px);
+  grid-template-rows: minmax(90px, auto) repeat(1, 90px);
 }
 
 .calculator-grid3 > button {
@@ -183,8 +183,8 @@ ul.list1 {
 
 .calculator-grid4 {
   display: grid;
-  grid-template-columns: repeat(1, 70px);
-  grid-template-rows: minmax(70px, auto) repeat(1, 70px);
+  grid-template-columns: repeat(1, 90px);
+  grid-template-rows: minmax(90px, auto) repeat(1, 90px);
 }
 
 .calculator-grid4 > button {
@@ -202,8 +202,8 @@ ul.list1 {
 
 .calculator-grid5 {
   display: grid;
-  grid-template-columns: repeat(1, 70px);
-  grid-template-rows: minmax(70px, auto) repeat(1, 70px);
+  grid-template-columns: repeat(1, 90px);
+  grid-template-rows: minmax(90px, auto) repeat(1, 90px);
 }
 
 .calculator-grid5 > button {
