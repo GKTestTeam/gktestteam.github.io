@@ -45,7 +45,7 @@ class Calculator {
       case '*':
 	computation = prev * 2
         break
-      case 'รท':
+      case '/':
         computation = prev / current
         break
       default:
