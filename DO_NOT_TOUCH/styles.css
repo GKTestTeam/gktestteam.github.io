@@ -5,9 +5,11 @@
 }
 
 body {
-  padding: 0;
-  margin: 0;
-  background: linear-gradient(to right, #408000, #003300);
+	height:90%;
+    	width:90%;
+  	padding: 0;
+  	margin: 0;
+  	background: linear-gradient(to right, #408000, #003300);
 }
 
 h1 {
@@ -94,6 +96,10 @@ h1 {
 	top: 47%;
     right: 0%;
 	left: 0%;
+}
+
+ul.list1 {
+    list-style-type: square;
 }
 
 .calculator-grid {
