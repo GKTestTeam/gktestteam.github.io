@@ -137,8 +137,8 @@ ul.list1 {
   justify-content: center;
   align-content: center;
   min-height: 65vh;
-  grid-template-columns: repeat(4, 100px);
-  grid-template-rows: minmax(120px, auto) repeat(5, 100px);
+  grid-template-columns: repeat(4, 75px);
+  grid-template-rows: minmax(90px, auto) repeat(5, 75px);
 }
 
 .calculator-grid > button {
@@ -155,8 +155,8 @@ ul.list1 {
 
 .calculator-grid2 {
   display: grid;
-  grid-template-columns: repeat(1, 100px);
-  grid-template-rows: minmax(100px, auto) repeat(1, 100px);
+  grid-template-columns: repeat(1, 75px);
+  grid-template-rows: minmax(75px, auto) repeat(1, 75px);
 }
 
 .calculator-grid2 > button {
@@ -173,8 +173,8 @@ ul.list1 {
 
 .calculator-grid3 {
   display: grid;
-  grid-template-columns: repeat(1, 100px);
-  grid-template-rows: minmax(100px, auto) repeat(1, 100px);
+  grid-template-columns: repeat(1, 75px);
+  grid-template-rows: minmax(75px, auto) repeat(1, 75px);
 }
 
 .calculator-grid3 > button {
@@ -192,8 +192,8 @@ ul.list1 {
 
 .calculator-grid4 {
   display: grid;
-  grid-template-columns: repeat(1, 100px);
-  grid-template-rows: minmax(100px, auto) repeat(1, 100px);
+  grid-template-columns: repeat(1, 75px);
+  grid-template-rows: minmax(75px, auto) repeat(1, 75px);
 }
 
 .calculator-grid4 > button {
@@ -211,8 +211,8 @@ ul.list1 {
 
 .calculator-grid5 {
   display: grid;
-  grid-template-columns: repeat(1, 100px);
-  grid-template-rows: minmax(100px, auto) repeat(1, 100px);
+  grid-template-columns: repeat(1, 75px);
+  grid-template-rows: minmax(75px, auto) repeat(1, 75px);
 }
 
 .calculator-grid5 > button {
